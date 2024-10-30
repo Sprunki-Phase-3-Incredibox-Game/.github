@@ -1,4 +1,4 @@
-# Sprunki Phase 3 MOD -0 Play Incredibox Game Online Free!
+# Sprunki Phase 3 MOD - Play Incredibox Game Online Free!
 
 ## [Play Sprunki Phase 3 Now!](https://modmeme.com/sprunki-phase-3/)
 
