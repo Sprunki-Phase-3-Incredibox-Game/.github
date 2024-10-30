@@ -1,0 +1,12 @@
+{
+  "name": "sprunki-phase-3",
+  "version": "1.0.0",
+  "description": "Sprunki Phase 3 online music game with a Halloween theme.",
+  "main": "index.js",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
