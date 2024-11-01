@@ -2,7 +2,7 @@
 
 ## [Play Sprunki Phase 3 Now!](https://modmeme.com/sprunki-phase-3/)
 
-## [Play Sprunki Abgerny!](https://github.com/Abgerny-Incredibox)
+## [Play Sprunki Halloween!](https://github.com/Sprunki-Halloween)
 
 ![unnamed](https://github.com/user-attachments/assets/fd5c06f8-bd3b-4ffa-9e78-be2741178ae8)
 
