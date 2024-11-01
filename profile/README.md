@@ -59,7 +59,7 @@ Sprunki Phase 3 introduces new layers to the core gameplay of Incredibox, allowi
 
 ---
 
-## Installation and Setup [UniTV](https://github.com/Uni-TV)
+## Installation and Setup
 
 To run Sprunki Phase 3 on your local machine, follow these steps:
 
